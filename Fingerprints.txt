@@ -3,3 +3,6 @@ Vormrodo@protonmail.com:
 
 Info@vormweb.de:
 A8F3 1BDA B328 10C9 CDE0 031E 56C4 47DF 76CF 566A
+
+XMPP://vormrodo@jabber.de:
+F9FC 2807 A682 F19F 1F22 4C82 2CC4 C462 84A6 8B9E
